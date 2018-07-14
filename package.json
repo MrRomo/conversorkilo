@@ -1,0 +1,24 @@
+{
+  "name": "convertidorkilo",
+  "version": "1.0.0",
+  "description": "Convertidor de kilogramos a libras",
+  "main": "Conversor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRomo/conversorkilo.git"
+  },
+  "keywords": [
+    "Convertidor",
+    "kilo",
+    "libras"
+  ],
+  "author": "Ricardo <jricardoromo21@gmail.com> (https://twitter.com/JRicardo_Romo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRomo/conversorkilo/issues"
+  },
+  "homepage": "https://github.com/MrRomo/conversorkilo#readme"
+}
